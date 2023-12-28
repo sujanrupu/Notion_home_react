@@ -1,0 +1,246 @@
+/* Footer.css */
+.logo-image1 {
+    height: 22px;
+    margin-left: 12px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease-in-out;
+}
+
+.logo-image1:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+.logo-image11 {
+    height: 18px;
+    margin-left: 2px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease-in-out;
+}
+
+.logo-image11:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+
+.logo-image{
+    height: 50px;
+    margin-left: 10px;
+}
+
+.fline {
+    margin-left: 18px;
+    margin-top: -5px;
+    margin-bottom: 50px;
+    width: 1310px;
+    border-bottom: 0.5px solid #CCCCCC; 
+}
+
+
+.footer_left{
+    width: 180px;
+    text-align: left;
+    margin-left: 125px;
+}
+.social{
+    margin-left: -8px;
+    margin-top: 20px;
+}
+
+.dropdown-btn{
+    display: flex;
+}
+.darrow{
+    position: static;
+    height: 12px;
+    margin-left: 18px;
+    margin-top: 2px;
+}
+
+.dropdown-wraper{
+    position: relative;
+    min-width: 200px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.dropdown-btn{
+    border: 1px solid rgb(190, 189, 189);
+    width: 100px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(238, 237, 237);
+    font-weight: 500;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+.dropdown-btn:hover{
+    border: 1px solid rgb(151, 150, 150);
+    background-color: rgb(223, 221, 221);
+}
+
+.dropdown-menu{
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    display: none;
+    width: 130px;
+    margin-left: 18px;
+}
+.dropdown-menu.show {
+    display: block;
+}
+.dropdown-menu .item1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 36px;
+    cursor: pointer;
+    display: flex;
+    text-align: left;
+}
+
+.dropdown-menu .item1:hover{
+    background-color: rgb(216, 215, 215);
+}
+
+.dropdown-menu .item1-active{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 38px;
+    cursor: pointer;
+    display: flex;
+    text-align: left;
+}
+
+.dropdown-menu .item1-active:hover{
+    background-color: rgb(216, 215, 215);
+}
+
+.footer_right_one_two{
+    margin-left: 300px;
+    text-align: left;
+    margin-left: 410px;
+    margin-top: 40px;
+}
+.footer_right_one_two1{
+    margin-left: 300px;
+    text-align: left;
+    margin-left: 410px;
+    margin-top: 40px;
+}
+
+.footer_right_one_three{
+    margin-left: 300px;
+    text-align: left;
+    margin-left: 410px;
+    margin-top: -140px;
+}
+
+.footer_right_one:hover{
+    cursor: pointer;
+}
+
+.footer_right_one_one{
+    text-align: left;
+    width: 150px;
+    margin-left: 410px;
+    margin-top: -140px;
+}
+
+.footer_right_two_one{
+    text-align: left;
+    width: 150px;
+    margin-left: 510px;
+    margin-top: -140px;
+}
+
+.footer_right_two_two {
+    text-align: left;
+    width: 150px;
+    margin-left: 510px;
+    margin-top: 40px;
+}
+.a121{
+    font-weight: 600;
+}
+.a122{
+    margin-top: 6px;
+    color: rgb(97, 97, 97);
+    font-weight: 400;
+}
+.a122:hover {
+    color: rgb(41, 171, 231);
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.footer_right_two{
+    margin-left: -280px;
+}
+
+.footer_right_three{
+    margin-left: -280px;
+}
+
+.ffooter{
+    display: flex;
+}
+
+.footer_right_two2{
+    margin-left: 120px;
+    width: 200px;
+    margin-top: -140px;
+}
+
+.footer_right_one_three2{
+    text-align: left;
+}
+.footer_right_one_two2{
+    text-align: left;
+    margin-top: 40px;
+}
+
+.footer_right_two4{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: -140px;
+}
+
+.footer_right_one_one4{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.footer_right_one_two4{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.foot_desc{
+    color: rgb(61, 61, 61);
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: -200px;
+    margin-top: -500px;
+}
+
+.foot_text{
+    margin-top: 25px;
+}
+
+.foot_desc1{
+    margin-left: -375px;
+    margin-top: 6px;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 100px;
+}

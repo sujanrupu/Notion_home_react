@@ -1,0 +1,126 @@
+.total_footer1{
+    margin-top: 70px;
+}
+.footer1_one{
+    font-size: 45px;
+    font-weight: bold;
+}
+.footer1_two{
+    margin-top: 15px;
+    color: rgb(12, 131, 179);
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.footer1_two:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer1_cards_left{
+    border-radius: 15px;
+    height: 550px;
+    width: 470px;
+    background-color: rgb(238, 237, 237);
+    margin-top: 8px;
+}
+.footer1_two_img{
+    height: 350px;
+    width: 430px;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.footer1_one_img{
+    margin-top: 18px;
+    margin-left: -380px;
+    height: 25px;
+}
+.head12{
+    margin-top: 30px;
+    margin-left: -280px;
+    font-weight: bold;
+    font-size: large;
+}
+.footer1_two1{
+    margin-top: 20px;
+    color: rgb(12, 131, 179);
+    font-weight: 500;
+    margin-bottom: 12px;
+    margin-left: -290px;
+}
+.footer1_two1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer_card1{
+    width: 200px;
+    height: 162px;
+    background-color: rgb(238, 237, 237);
+    border-radius: 12px;
+    margin-top: 8px;
+    align-items: left;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+.footer1_three_img{
+    margin-top: 18px;
+    margin-left: -140px;
+}
+.footer1_1{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: large;
+    margin-left: -12px;
+    
+}
+.footer1_two2{
+    margin-top: 20px;
+    color: rgb(12, 131, 179);
+    font-weight: 500;
+    margin-bottom: 12px;
+    margin-left: -50px;
+}
+.footer1_two2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer1_frow{
+    display: flex;
+}
+.footer1_11{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: large;
+    margin-left: -110px;
+}
+.footer1_111{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: large;
+    margin-left: -40px;
+}
+.footer1_11111{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: large;
+    margin-left: -20px;
+}
+.footer1_cards{
+    display: flex;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.footer1_cards_right{
+    margin-left: 15px;
+}
+.footer1_head{
+    display: flex;
+    margin-left: 430px;
+}
+.footer1_cards{
+    margin-top: -90px;
+    z-index: 10;
+}
+.eight_footer1{
+    z-index: 1;
+}

@@ -1,0 +1,42 @@
+.addone_head{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.test1{
+    margin-top: -10px;
+}
+.add_top{
+    display: flex;
+}
+.lman{
+    margin-top: 25px;
+}
+
+.total_add{
+    margin-left: 500px;
+    margin-top: 60px;
+}
+.ladd{
+    margin-left: -515px;
+    margin-top: -2px;
+}
+
+.text_add{
+    margin-top: 50px;
+    margin-left: -460px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.add_footer{
+    margin-top: 10px;
+    display: flex;
+}
+.add_state{
+    text-align: left;
+    margin-left: 20px;
+}
+.justin{
+    font-weight: 500;
+}

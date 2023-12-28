@@ -1,0 +1,98 @@
+.total_face{
+    margin-top: 70px;
+}
+.head{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.head2{
+    margin-top: -10px;
+}
+
+.face_desc{
+    margin-top: 20px;
+}
+
+.link1{
+    margin-top: 15px;
+    color: rgb(12, 131, 179);
+    margin-left: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.link1:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+.face_stat{
+    margin-left: 200px;
+    display: flex;
+}
+
+.memebers{
+    text-align: left;
+    width: 100px;
+    margin-bottom: 12px;
+    width: 300px;
+    height: 115px;
+    background-color: rgb(238, 237, 237);
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.mem1{
+    color: rgb(12, 131, 179);
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.mem_desc{
+    font-weight: 500;
+    margin-left: 25px;
+}
+
+.conc1{
+    margin-top: 20px;
+    background-color: rgb(238, 237, 237);
+    border-radius: 15px;
+    margin-bottom: 20px;
+    text-align: left;
+    width: 450px;
+    height: 430px;
+    padding-top: 15px;
+}
+
+.conc_head{
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.conc_1{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.conc_2{
+    margin-left: 20px;
+}
+.face2{
+    height: 300px;
+    margin-left: 2px;
+}
+
+.face3{
+    height: 240px;
+    margin-top: 65px;
+    margin-left: 15px;
+    width: 450px;
+}
+
+.face_conc{
+    display: flex;
+    margin-left: 200px;
+}
+.conc1{
+    margin-left: 30px;
+}

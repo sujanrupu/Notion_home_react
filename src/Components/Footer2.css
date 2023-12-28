@@ -1,0 +1,46 @@
+.footer2_head{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 40px;
+}
+.footer2_head1{
+    margin-top: 15px;
+    color: rgb(41, 40, 40);
+    font-weight: 500;
+}
+.footer2_hero{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.btn_footer2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 600;
+    font-size: medium;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    display: flex;
+} 
+.btn_footer2:hover {
+    background-color: rgb(63, 62, 62);
+}
+.Footer2_btn{
+    margin-top: 8px;
+    margin-left: 10px;
+    font-weight: 500;
+    color: rgb(12, 131, 179);;
+}
+.Footer2_btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Footer2_img{
+    margin-top: 15px;
+    height: 340px;
+}

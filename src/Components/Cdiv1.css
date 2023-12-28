@@ -1,0 +1,79 @@
+.cdiv1_card_left {
+    height: 550px;
+    width: 480px;
+    margin-left: 200px;
+    background: rgb(245, 244, 244);
+    border-radius: 20px;
+    box-shadow: 0 4px 6px -3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 15px;
+}
+.cdiv1_card_right {
+    height: 550px;
+    width: 480px;
+    margin-left: 50px;
+    background: rgb(245, 244, 244);
+    border-radius: 20px;
+    box-shadow: 0 4px 6px -3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 15px;
+}
+
+.myImg3 {
+    height: 400px;
+    width: 450px;
+    margin-left: -50px;
+    margin-top: 20px;
+    margin-right: -80px;
+}
+
+.myImg1 {
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.cdiv_head {
+    margin-top: -350px;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.cdiv_text1 {
+    margin-top: 10px;
+}
+
+.cdiv_text1,
+.cdiv_text2 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.cdiv1_card{
+    display: flex;
+}
+.cdiv_footer{
+    margin-top: 20px;
+}
+.cdiv_footer_first, .cdiv_footer_second{
+    font-size: x-large;
+}
+.cdiv_footer_manager{
+    margin-top: 12px;
+    display: flex;
+    margin-left: 570px;
+}
+.myImg5{
+    height: 35px;
+}
+.name{
+    margin-left: -100px;
+}
+.Name{
+    text-align: left;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.desg1{
+    text-align: left;
+    margin-left: 120px;
+}
